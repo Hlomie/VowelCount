@@ -3,7 +3,7 @@
  */
 
 package com.mycompany.vowelcount;
-
+import java.util.Scanner;
 /**
  *
  * @author RC_Student_lab
@@ -11,6 +11,6 @@ package com.mycompany.vowelcount;
 public class VowelCount {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+       
     }
 }
